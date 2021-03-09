@@ -1,0 +1,112 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    color: #E20000;
+}
+p{
+    color: #6A6A6A;
+    font-size: 14px;
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 14px; 
+    color:#282828;
+    font-weight: 300;
+}
+#contacto{
+background-image: url(../images/fondo-contacto.png);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+#proyectos{
+    background-image: url(../images/proyecto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+#index{
+    background-image: url(../images/index.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    }
+nav .nav-link{
+    color: #282828;
+}
+nav .active{
+    border: 1px solid #E20000;
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    font-weight: 100;
+}
+nav .navbar-toggler-icon i{
+    color: #E20000;
+}
+textarea {
+    height: 150px !important;
+    resize: none;
+}
+.text-right {
+    text-align: right!important;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.pr-5, .px-5 {
+    padding-right: 3rem!important;
+}
+.mr-auto, .mx-auto {
+    margin-right: auto!important;
+}
+.btn {
+    background-color: #FFFFFF;
+    color: #370A6D;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 20px;
+    padding: 5px 35px;
+}
+input, textarea {
+    border-radius: 15px !important;
+    border: 0px !important;
+}
+footer, footer a {
+    color: white;
+    font-weight: 100;
+    font-size: 14px;
+}
+.btn-rojo{
+    background-color: #E20000;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    font-weight: 100;
+}
+footer .fa-whatsapp{
+    color: white;
+    background-color: #370A6D;
+    font-size: 30px;
+    padding: 10px 19px;
+    border-radius: 10px 10px 0 0;
+    height: 65px;
+    width: 65px;
+}
+footer .fa-github{
+    font-size: 30px;
+    color: white;
+}
+footer .fa-linkedin-in{
+    color: #ff4a49;
+    background-color: white;
+    font-size: 20px;
+    border: 0px;
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 80px;
+    margin: 0 8px;
+}
