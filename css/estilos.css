@@ -96,10 +96,10 @@ footer .fa-whatsapp{
 }
 footer .fa-github{
     font-size: 30px;
-    color: white;
+    color: #370A6D;
 }
 footer .fa-linkedin-in{
-    color: #ff4a49;
+    color:#370A6D;
     background-color: white;
     font-size: 20px;
     border: 0px;
@@ -112,4 +112,11 @@ footer .fa-linkedin-in{
 }
 #proyectos p {
     font-size: 14px;
+}
+
+.color-gradiente {
+    background-color: salmon;
+}
+.card{
+    border-radius: 15px !important;
 }
