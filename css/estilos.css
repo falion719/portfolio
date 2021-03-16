@@ -27,9 +27,9 @@ h3{
     background-size: 100%;
     }
 #index{
-    background-image: url(../images/index.png);
+    background-image: url(../images/fondo-contacto.png);
     background-repeat: no-repeat;
-    background-size: 80%;
+    background-size: 100%;
     }
 nav .nav-link{
     color: #282828;
@@ -54,6 +54,10 @@ textarea {
 .btn:not(:disabled):not(.disabled) {
     cursor: pointer;
 }
+.btn:hover{
+    color: #FFFFFF;
+    background-color: #370A6D;
+}
 .pr-5, .px-5 {
     padding-right: 3rem!important;
 }
@@ -63,7 +67,7 @@ textarea {
 .btn {
     background-color: #FFFFFF;
     color: #370A6D;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 16px;
     border-radius: 20px;
     padding: 5px 35px;
@@ -119,4 +123,16 @@ footer .fa-linkedin-in{
 }
 .card{
     border-radius: 15px !important;
+}
+.p-3 {
+    height: 90px;
+}
+.cohete{
+    height: 400px;
+}
+.cohete:hover{
+    height: 410px;
+}
+.div-cohete{
+    height: 410px;
 }
