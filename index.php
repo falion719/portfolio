@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="5">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,7 +51,13 @@
                 <a href="proyectos.php"><img src="images/cohete.svg" class="cohete"></a>
             </div>
         </div>
-
+        <div class="row">
+                <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
+                    <div class="input-home">
+                        <p class="p-1">Bienvenid@ a mi sitio web sobre docencia en sistemas.</p>
+                    </div>
+                </div>
+            </div>
         <div class="row">
             <div class="col-12 mt-4 text-center ">
                 <a href="proyectos.php" class="btn"> Conoce mis proyectos</a>
